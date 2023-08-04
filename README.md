@@ -6,6 +6,8 @@
 
 ![Evan Clayton GitHub stats](https://github-readme-stats.vercel.app/api?username=evanclayton&show_icons=true&theme=onedark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanclayton)](https://github.com/evanclayton/github-readme-stats)
+
 ## Tecnologias que já trabalhei
 
 <div style="display: inline_block"><br/>
